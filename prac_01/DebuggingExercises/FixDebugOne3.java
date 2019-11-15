@@ -1,5 +1,3 @@
-package prac_01.DebuggingExercise;
-
 public class FixDebugOne3
 {
    public static void main(String[] args)

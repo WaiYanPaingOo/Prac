@@ -1,5 +1,3 @@
-package prac_01.DebuggingExercise;
-
 public class FixDebugOne2
 {
    /* This program displays some output*/
